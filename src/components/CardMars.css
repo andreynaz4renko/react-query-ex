@@ -1,0 +1,28 @@
+.all {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(111, 202, 111);
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+  gap: 5px;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 3px;
+  background-color: rgb(113, 53, 53);
+}
+
+img {
+  height: 200px;
+  width: 350px;
+}
